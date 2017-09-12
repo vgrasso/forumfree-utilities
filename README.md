@@ -1,7 +1,7 @@
 # Forumfree JS Utilities
 Piccoli script JS di utilità per le board Forumfree, Forumcommunity e Blogfree.
 ## Versioni Originali
-Versioni originali degli script, realizzate nell'anno 2013. Per questo motivo non si garantisce una totale compatibilità con i circuiti.
+Versioni originali degli script, realizzate nell'anno 2013. Per questo motivo non si garantisce una totale compatibilità con i circuiti.  
 Script inclusi nel pacchetto:
 - **AutoUp**: pulsante per fare up automatico delle discussioni
 - **DefaultAvatar**: avatar di default per gli utenti che non ne possiedono uno
@@ -11,3 +11,5 @@ Script inclusi nel pacchetto:
 - **TopVote**: vota automaticamente in Top Forum tramite Ajax
   
 **IMPORTANTE!** Bisogna sempre includere il file *function.js* per far funzionare gli script
+## Versione Aggiornata
+Includo anche la versione utilizzata attualmente degli script, che è stata però modificata da altri utenti e di cui non posso garantire il funzionamento. File: *library.js*
