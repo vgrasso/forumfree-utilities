@@ -10,4 +10,4 @@ Script inclusi nel pacchetto:
 - **Tabella Staff**: genera automaticamente una tabella con tutto lo staff tramite le API di Forumfree
 - **TopVote**: vota automaticamente in Top Forum tramite Ajax
   
-** IMPORTANTE! ** Bisogna sempre includere il file *function.js* per far funzionare gli script
+**IMPORTANTE!** Bisogna sempre includere il file *function.js* per far funzionare gli script
